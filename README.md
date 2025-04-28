@@ -43,7 +43,7 @@ Setup Instructions
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/face-emotion-detection.git
+git clone https://github.com/varsha385/face-emotion-detection.git
 cd face-emotion-detection
 pip install -r requirements.txt
 python emotion_recognition.py
